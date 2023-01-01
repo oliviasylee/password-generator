@@ -5,8 +5,8 @@ This project was designed as a module 3 challenge and this application strengthe
 When the users click "Generate Password" button, they can choose between 8 and 128 characters. Also, they can select any combination of lowercase, uppercase, numeric, and/or special characters step by step. When the password is generated and then the password is written to the page. I've created "Copy to Clipboard" so that the users can copy easily the password.
 
 ## Usage
-Live application deployed at: https://oliviasylee.github.io/Password-Generator/
-[![portfolio-screenshot](Assets/Password-generator-screenshot.png)](https://oliviasylee.github.io/Password-Generator/)
+Live application deployed at: https://oliviasylee.github.io/password-generator/
+[![portfolio-screenshot](Assets/Password-generator-screenshot.png)](https://oliviasylee.github.io/password-generator/)
 
 ## Features
 1. When the users click "Generate Password" button, they can choose between 8 and 128 characters. 
